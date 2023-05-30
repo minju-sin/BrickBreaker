@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\project\score.h(24,19): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\score.h(24,16): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\init.h(34,15): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\project\init.h(35,15): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\project\circle.h(7,17): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\project\circle.h(12,51): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\circle.h(12,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(10,20): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\project\wall.h(17,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(18,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(36,20): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\project\wall.h(40,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(41,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(58,27): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(78,24): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\wall.h(85,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(12,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(13,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(16,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(17,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(20,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(21,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\paddle.h(35,31): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\brick.h(48,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\brick.h(63,13): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\brick.h(64,13): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\brick.h(107,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\brick.h(108,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\project\main.cpp(19,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  project.vcxproj -> D:\project\Debug\project.exe
